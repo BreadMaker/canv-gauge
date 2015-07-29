@@ -1,0 +1,15 @@
+{
+    "name": "canv-gauge",
+    "description": "HTML5 Canvas Gauge",
+    "version": "1.0.0",
+    "keywords": [
+        "js",
+        "html5",
+        "gauge",
+        "graph"
+    ],
+    "homepage": "http://ru.smart-ip.net/gauge.html",
+    "main": [
+        "gauge.js"
+    ]
+}
